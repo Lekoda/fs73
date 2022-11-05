@@ -1,0 +1,45 @@
+.body {}
+
+.header {}
+
+.container {
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+.header-cantainer{
+    display: flex;
+}
+.navigation {
+
+}
+.logo {
+    margin right: 131px;
+}
+
+.header-nav {
+    display: flex;
+    list-style: none;
+}
+
+.header-list {
+
+}
+
+.header-nav-link {
+    text-decoration: none;
+}
+.header-nav-link:hover,
+.header-nav-link:focus,
+.header-nav-link.current{
+    color:#ff6c00;
+}
+.header-contact {
+    text-decoration: none;
+    
+}
+
+.header-btn {}
+
+.btn {}
